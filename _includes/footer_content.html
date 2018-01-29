@@ -1,0 +1,6 @@
+{% assign feed_path = "/feed.xml" %}
+{% if site.feed and site.feed.path %}
+  {% assign feed_path = site.feed.path %}
+{% endif %}
+<center><img src="/assets/kanye_64x64.png" alt="Kanye Head" height="64" width="64" /></center>
+&copy; 2017-2018 {{ site.author }} - How, Swift? is powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/yous/whiteglass">whiteglass</a> - Subscribe via <a href="{{ feed_path | absolute_url }}">RSS</a>
