@@ -40,7 +40,7 @@ and run it in the iOS simulator.
 
 Ok, here's a screenshot of it running on my iMac:
 
-![i-am-poor]([https://github.com/londonappbrewery/Images/raw/master/I%20Am%20Poor.png)
+![I-am-Rich](/assets/i-am-rich-screenshot.png)
 
 Again, not a very exciting app, but the point of the exercise is to introduce me
 to Xcode and familiarizing myself with using the Xcode for both interface design
