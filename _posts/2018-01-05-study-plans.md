@@ -31,7 +31,7 @@ Starting with the first one on this list, I've already began taking the course a
 
 ### Show Your Work.
 
-![I-am-Poor](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
+![I-am-Rich](/assets/i-am-rich-screenshot.png)
 
 Honestly, there's not a lot to it, but the point of developing this is to have students create their very first app, introduce the students to XCode and the important areas/sections of the IDE, and iOS Interface builder.
 
