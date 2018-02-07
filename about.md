@@ -68,4 +68,4 @@ If you want to review my designs and source code, check out the [How, Swift? Git
 
 #### Contact
 
-I'd like to think of myself as an accessible person. If you want to talk, you can email me directly at [howswift at iamjasonclark.com](mailto:howswift@iamjasonclark.com). Word up.
+I'd like to think of myself as an accessible person. If you want to talk, you can email me directly at [github at howswift.com](mailto:github@howswift.com). Word up.
