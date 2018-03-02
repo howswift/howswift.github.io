@@ -14,6 +14,10 @@ Nothing to see here either. Yet.
 
 # Coursework
 
+![Clima Icon](assets/clima_Icon-40@3x.png)
+[**Clima**](https://github.com/howswift/complete-ios-bootcamp/pull/23)
+A location-based weather app.
+
 ![Quizzler Icon](assets/destini_Icon-40@3x.png)
 [**Destini**](https://github.com/howswift/complete-ios-bootcamp/pull/19)
 A short 'Choose Your Own Adventure' game similar to Lifeline.
