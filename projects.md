@@ -27,6 +27,6 @@ screen. [GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/5)
 
 
 ![Magic 8-ball Icon](assets/magic8ball_Icon-40@3x.png)
-**Magic 8-Ball**
+**Magic 8-Ball:**
 A simple app that recreates the novelty magic 8-ball.
 [GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/2)
