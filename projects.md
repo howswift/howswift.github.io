@@ -19,7 +19,7 @@ Nothing to see here either. Yet.
 ## Quizzler
 A true/false quiz game that introduced the MVC(Model-View-Controller) design
 pattern.
-
+URL: https://github.com/howswift/complete-ios-bootcamp/pull/11
 
 
 ![Xylophone Icon](assets/xylophone_Icon-40@3x.png)
@@ -27,7 +27,6 @@ pattern.
 ## Xylophone
 An app that allows you to play sounds triggered by xylophone keys on the
 screen.
-
 URL: https://github.com/howswift/complete-ios-bootcamp/pull/5
 
 
@@ -36,5 +35,4 @@ URL: https://github.com/howswift/complete-ios-bootcamp/pull/5
 
 ## Magic 8-Ball
 A simple app that recreates the novelty magic 8-ball.
-
 URL: https://github.com/howswift/complete-ios-bootcamp/pull/2
