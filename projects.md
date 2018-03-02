@@ -16,14 +16,13 @@ Nothing to see here either. Yet.
 
 ![Quizzler Icon](assets/quizzler_Icon-40@3x.png)
 **Quizzler:**
-A true/false quiz game that introduced the MVC(Model-View-Controller) design
-pattern. [GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/11)
+A true/false quiz game that introduced the MVC design pattern. [GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/11)
 
 
 ![Xylophone Icon](assets/xylophone_Icon-40@3x.png)
 **Xylophone:**
-An app that allows you to play sounds triggered by xylophone keys on the
-screen.[GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/5)
+An app that plays sounds triggered by xylophone keys on the
+screen. [GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/5)
 
 
 
