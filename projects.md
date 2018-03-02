@@ -4,11 +4,15 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## Published Apps
+# Published Apps
 
 Nothing to see here. Yet.
 
-## Educational Projects
+# Beta Apps
+
+Nothing to see here either. Yet.
+
+# Coursework
 
 ![Xylophone Icon](assets/xylophone_Icon-40@3x.png)
 
