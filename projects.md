@@ -15,7 +15,7 @@ Nothing to see here either. Yet.
 # Coursework
 
 ![BitcoinTicker Icon](assets/bitcoin_Icon-40@3x.png)
-[**Bitcoin Ticker**](https://github.com/howswift/complete-ios-bootcamp/pull/23)
+[**Bitcoin Ticker**](https://github.com/howswift/complete-ios-bootcamp/pull/24)
 A current Bitcoin price app, based on the currency selected.
 
 ![Clima Icon](assets/clima_Icon-40@3x.png)
