@@ -14,6 +14,12 @@ Nothing to see here either. Yet.
 
 # Coursework
 
+![Quizzler Icon](assets/quizzler_Icon-40@3x.png)
+
+### Quizzler
+A true/false quiz game that introduced the MVC(Model-View-Controller) design
+pattern.
+
 ![Xylophone Icon](assets/xylophone_Icon-40@3x.png)
 
 ### Xylophone
