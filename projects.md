@@ -14,6 +14,10 @@ Nothing to see here either. Yet.
 
 # Coursework
 
+![Quizzler Icon](assets/destini_Icon-40@3x.png)
+[**Destini**](https://github.com/howswift/complete-ios-bootcamp/pull/19)
+A short 'Choose Your Own Adventure' game similar to Lifeline.
+
 ![Quizzler Icon](assets/quizzler_Icon-40@3x.png)
 [**Quizzler**](https://github.com/howswift/complete-ios-bootcamp/pull/11)
 A true/false quiz game that introduced the MVC design pattern.
