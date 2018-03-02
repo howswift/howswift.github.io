@@ -21,7 +21,7 @@ A true/false quiz game that introduced the MVC design pattern. [GitHub](https://
 
 ![Xylophone Icon](assets/xylophone_Icon-40@3x.png)
 **Xylophone:**
-An app that plays sounds triggered by xylophone keys on the
+An app that triggers sounds with xylophone keys on the
 screen. [GitHub](https://github.com/howswift/complete-ios-bootcamp/pull/5)
 
 
