@@ -15,7 +15,7 @@ Nothing to see here either. Yet.
 # Coursework
 
 ![FlashChat Icon](assets/flashchat_Icon-40@3x.png)
-[**Bitcoin Ticker**](https://github.com/howswift/complete-ios-bootcamp/pull/25)
+[**Flash Chat**](https://github.com/howswift/complete-ios-bootcamp/pull/25)
 A simplified WhatsApp clone that uses Firebase as the backend.
 
 ![BitcoinTicker Icon](assets/bitcoin_Icon-40@3x.png)
