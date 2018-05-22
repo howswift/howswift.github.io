@@ -18,6 +18,10 @@ Nothing to see here either. Yet.
 [**Todoey App (Realm.io)**](https://github.com/howswift/complete-ios-bootcamp/pull/27)
 [**Todoey App (CoreData)**](https://github.com/howswift/complete-ios-bootcamp/pull/26)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 59ce22ba7ba2c97432f5401d380469ebd4760f94
 ![FlashChat Icon](assets/flashchat_Icon-40@3x.png)
 [**Flash Chat**](https://github.com/howswift/complete-ios-bootcamp/pull/25)
 A simplified WhatsApp clone that uses Firebase as the backend.
