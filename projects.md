@@ -14,10 +14,17 @@ Nothing to see here either. Yet.
 
 # Coursework
 
-## Todoey App
+![Todoey Icon](assets/todoey_icon-40@3x.png)
 [**Todoey App (Enhanced UI/UX)**](https://github.com/howswift/complete-ios-bootcamp/pull/28)
+A to-do list app with enhanced UI/UX
+
+![Todoey Icon](assets/todoey_icon-40@3x.png)
 [**Todoey App (Realm.io)**](https://github.com/howswift/complete-ios-bootcamp/pull/27)
+A to-do list app using Realm
+
+![Todoey Icon](assets/todoey_icon-40@3x.png)
 [**Todoey App (CoreData)**](https://github.com/howswift/complete-ios-bootcamp/pull/26)
+A to-do list app using CoreData
 
 ![FlashChat Icon](assets/flashchat_Icon-40@3x.png)
 [**Flash Chat**](https://github.com/howswift/complete-ios-bootcamp/pull/25)
